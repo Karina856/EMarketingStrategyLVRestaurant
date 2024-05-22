@@ -9,6 +9,7 @@ Below are the topics of the different types of content we would post to our webs
   + Importance of sustainability
   + Recipes
   + Chef suggestions for home cooking
+  + Customer Reviews and Testimonials
 
 ### Inforgraphics topics:
   + The road from farm to the restaurant table
