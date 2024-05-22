@@ -1,10 +1,10 @@
 # Website Development #
 
-**1. Website Builder**
+### 1. Website Builder ###
 
 For the Website builder it is the best to choose **Wordpress** in which PHP, HTML, CSS, JavaScript will be used and also MySQL for database. Highly flexible and customizable. It has a steeper learning curve but offers extensive plugins and themes tailored for restaurants. You can integrate online booking systems, menus, and other features.
 
-**2. Essential Features for a Restaurant Website**
+### 2. Essential Features for a Restaurant Website ###
 
 **Design and User Experience:**
 + Visually Appealing Design: Use high-quality images of your dishes and restaurant ambiance. A clean, modern design with easy navigation is crucial.
