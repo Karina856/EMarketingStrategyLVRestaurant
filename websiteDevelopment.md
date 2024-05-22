@@ -42,13 +42,19 @@ You should use a combination of differnet analytic tools for understanding visit
 1. **Google Analytics**
 + Features: Tracks visitor data such as page views, session duration, bounce rate, and user demographics. Provides insights into how visitors find and interact with your website.
 + Why Use It: It's comprehensive, widely used, and free. You can set up goals to track specific actions like online reservations or order completions.
-+ Measurments: Dayly page visits, average session duration, average bounce rate, user demographics, traffic sources
++ What to measure: Dayly page visits, average session duration, average bounce rate, user demographics, traffic sources (organic searched / direct / social / paid search)
 
 2. **Yoast SEO**
 + Features: Provides SEO analysis and improvements, readability checks, and XML sitemap generation. Integrates with Google Analytics for deeper insights.
 + Why Use It: Helps optimize your website content for search engines, improving your organic search rankings and traffic.
++ What to measure: SEO analysis - Keyword optimizations and readability check, SEO scores
 
 3. **Crazy Egg**
-Features: Offers heatmaps, scroll maps, and user session recordings. Includes A/B testing tools for optimizing your website.
-Why Use It: It provides in-depth insights into how users interact with your site, helping you make data-driven design decisions.
++ Features: Offers heatmaps, scroll maps, and user session recordings. Includes A/B testing tools for optimizing your website.
++ Why Use It: It provides in-depth insights into how users interact with your site, helping you make data-driven design decisions.
++ What to measure: heatmaps (visualize where users are clicking more and how far down they are scrolling), click segmentation (break down clicks by referral source, search term, and more to understand different user behaviors), element Interaction (view clicks on individual elements like buttons, images, and links), A/B testing (run A/B tests to see which versions of your pages perform better)
+
+By using Google Analytics, Yoast SEO, and Crazy Egg together, you can gain a comprehensive understanding of your website’s performance, optimize your content for search engines, and improve user experience through visual behavior analysis. This combination of tools helps ensure your restaurant website attracts, engages, and converts visitors effectively.
+
+### Secure and Trustworthy ###
    
