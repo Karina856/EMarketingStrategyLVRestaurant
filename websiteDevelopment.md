@@ -20,4 +20,10 @@ For the Website builder it is the best to choose **Wordpress** in which PHP, HTM
 + Social Media Integration: Link to your social media profiles and consider embedding your Instagram feed or Facebook reviews.
 + Events and Special Offers: Highlight any special events, offers, or promotions
 
+### 3. Theme for the website ###
 
+There are many of themese available but these would be perfect for the restaurant website:
+
+1. Rosa 2 -  Elegant design with parallax scrolling, full-screen images, and a focus on showcasing food. It also supports online reservations and menus. Ideal for creating a visually stunning restaurant site that emphasizes the dining experience.
+2. Astra -  Lightweight and fast, with numerous starter templates for restaurants. Compatible with popular page builders like Elementor and Beaver Builder. Excellent performance and ease of use, with a focus on speed and SEO optimization.
+3. Restaurant and Café - Specifically designed for restaurants, cafes, and bistros. It includes features like menu management, reservations, and a drag-and-drop builder. Easy to set up and tailored specifically for food-related businesses.
