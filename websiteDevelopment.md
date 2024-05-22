@@ -13,8 +13,8 @@ For the Website builder it is the best to choose **Wordpress** in which PHP, HTM
 
 **Key Functionalities:**
 + Menu Display: Clearly present your menu with prices, descriptions, and images. Consider adding dietary information (e.g., vegan, gluten-free options).
-+ Online Reservations: Integrate a reservation system like OpenTable or Resy to allow customers to book tables directly from your website.
-+ Online Ordering: Enable online ordering for delivery or pickup through integrations with services like UberEats, Grubhub, or in-house systems.
++ Online Reservations: Integrate a reservation system to allow customers to book tables directly from your website (CTA).
++ Online Ordering: Enable online ordering for delivery or pickup through integrations with services like Wolt, Bolt or in-house systems.
 + Contact Information: Provide clear contact details, including phone number, email, and a contact form. A map with your location can be helpful.
 + Customer Reviews and Testimonials: Show testimonials and reviews to build trust and attract new customers.
 + Social Media Integration: Link to your social media profiles and consider embedding your Instagram feed or Facebook reviews.
@@ -35,4 +35,20 @@ There are many of themese available but these would be perfect for the restauran
 5. Restaurant and Café - Specifically designed for restaurants, cafes, and bistros. It includes features like menu management, reservations, and a drag-and-drop builder. Easy to set up and tailored specifically for food-related businesses.
 ![image](https://github.com/Karina856/EMarketingStrategyLVRestaurant/assets/82584494/7a61d3fb-9921-4efe-a665-d91a7a90a07e)
 
+### 4. Analytics ###
+
+You should use a combination of differnet analytic tools for understanding visitor behavior, measuring the effectiveness of your marketing efforts, and making data-driven decisions to improve your online presence. 
+
+1. **Google Analytics**
++ Features: Tracks visitor data such as page views, session duration, bounce rate, and user demographics. Provides insights into how visitors find and interact with your website.
++ Why Use It: It's comprehensive, widely used, and free. You can set up goals to track specific actions like online reservations or order completions.
++ Measurments: Dayly page visits, average session duration, average bounce rate, user demographics, traffic sources
+
+2. **Yoast SEO**
++ Features: Provides SEO analysis and improvements, readability checks, and XML sitemap generation. Integrates with Google Analytics for deeper insights.
++ Why Use It: Helps optimize your website content for search engines, improving your organic search rankings and traffic.
+
+3. **Crazy Egg**
+Features: Offers heatmaps, scroll maps, and user session recordings. Includes A/B testing tools for optimizing your website.
+Why Use It: It provides in-depth insights into how users interact with your site, helping you make data-driven design decisions.
    
