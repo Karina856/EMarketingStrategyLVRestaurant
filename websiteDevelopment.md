@@ -24,15 +24,15 @@ For the Website builder it is the best to choose **Wordpress** in which PHP, HTM
 
 There are many of themese available but these would be perfect for the restaurant website:
 
-1. Rosa 2 -  Elegant design with parallax scrolling, full-screen images, and a focus on showcasing food. It also supports online reservations and menus. Ideal for creating a visually stunning restaurant site that emphasizes the dining experience.
+**1. Rosa 2** -  Elegant design with parallax scrolling, full-screen images, and a focus on showcasing food. It also supports online reservations and menus. Ideal for creating a visually stunning restaurant site that emphasizes the dining experience.
 ![image](https://github.com/Karina856/EMarketingStrategyLVRestaurant/assets/82584494/6ff15693-5768-43ae-aef1-d4b078d9332c)
 
 
-3. Astra -  Lightweight and fast, with numerous starter templates for restaurants. Compatible with popular page builders like Elementor and Beaver Builder. Excellent performance and ease of use, with a focus on speed and SEO optimization.
+**2. Astra** -  Lightweight and fast, with numerous starter templates for restaurants. Compatible with popular page builders like Elementor and Beaver Builder. Excellent performance and ease of use, with a focus on speed and SEO optimization.
 ![image](https://github.com/Karina856/EMarketingStrategyLVRestaurant/assets/82584494/6d700ce6-573b-4828-ac66-447d57bd09db)
 
    
-5. Restaurant and Café - Specifically designed for restaurants, cafes, and bistros. It includes features like menu management, reservations, and a drag-and-drop builder. Easy to set up and tailored specifically for food-related businesses.
+**3. Restaurant and Café** - Specifically designed for restaurants, cafes, and bistros. It includes features like menu management, reservations, and a drag-and-drop builder. Easy to set up and tailored specifically for food-related businesses.
 ![image](https://github.com/Karina856/EMarketingStrategyLVRestaurant/assets/82584494/7a61d3fb-9921-4efe-a665-d91a7a90a07e)
 
 ### 4. Analytics ###
