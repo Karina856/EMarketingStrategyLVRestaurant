@@ -39,6 +39,8 @@ To make sure our content is of good quality, we would take these steps:
   + Comprehensive research - since our restuarant prides it self on traditional Latvian cuisine and we would be posting content about these foods, it is important that the information we post is correct and backed by sources
   + Fact checking - while this does go hand in hand with the previous, iš an additional step to ensure quaility
   + Quality equipment together with Goods skills - It is important that we use equpiment that can produce high quaility content (especially when talking about video) but with that we also need people who know how to use it. Combining the two is key.
+  + Relevancy and Timing - make sure that our content plan is relevant to what is happening in the industry, the country and the world. Make sure that content releases are not delayed and are published in time to have maximum effect.
+  + Meassure performance and react to it - we need to be following along with how well our content is doing and if something is not doing as good, then change it and try something else to find the perfect nieche.
 
 ## SEO things to keep in mind:
 Since all of this content would end up on our website, it's important not to forget about SEO. Here are the things to keep in mind when publishing this content:
