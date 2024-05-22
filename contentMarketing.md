@@ -32,6 +32,7 @@ Hosting events and then making the images from these events available trough our
   + Tasting events
   + Seasonal menu launch
   + Guest chef events
+
 More types of events would be introduced as the time goes on.
 
 ## Content Quality
