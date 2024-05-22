@@ -45,11 +45,14 @@ To make sure our content is of good quality, we would take these steps:
 ## SEO things to keep in mind:
 Since all of this content would end up on our website, it's important not to forget about SEO. Here are the things to keep in mind when publishing this content:
   + Keywords in titles, headings, URLs, meta-descriptions
+  + Using geo-specific keywords 
   + Content structure using various headings (h1, h2 and h3)
   + Internal links to our other relavent pages
   + Regular updates on the content that requires it, like the menu (Making sure it doesn't go out of date)
   + Evergreen content - making sure that our content remain relavent over time (not all content, some needs updates)
   + Create XML sitemaps
   + Make corrections to Robots.txt if needed
-  + Social media sharing buttons on our pages so tht they could be shared more widely
+  + Social media sharing buttons on our pages so that they could be shared more widely
 
+## Additional things to consider for the future:
+  + Interactive map of ingradient sources
