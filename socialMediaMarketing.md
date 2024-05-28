@@ -54,6 +54,36 @@ Here are some influencers we would attempt approaching at some point:
   + @eatdrinkrunrepeat - A European influencer with a goal to show food from all over Europe. Getting her to showcase our Latvian traditional dishes would be a win-win for both of us.
 
 ## Analytics ##
+With each platform having different content and ways of engaging with said content, there are different analytics measured and taken into account.
+### YouTube ###
+  + Watch Time - measures how many minutes people have spent watching your video. The higher the number, the more engaging the video
+  + Average View Duration - If most people are clicking off the video after the first seconds or minutes, we are not going to get anywhere with growing our audience. This tells us how engaging is our content.
+  + Views - a basic indicator of how many people we reach
+  + Subscribers - a way to see if our audience is growing and how many people want to see more of our content.
+  + Engemnet - Likes, Comments, shares and more. Tracking this tells us that our content resonates with the audience.
+  + Traffic sources and Demographics - allows us to better understand our audience and in the future make the content more appealing to them or identify the gaps in our audience coverage.
+
+### Facebook ###
+  + Reach - number of unique users that see our posts, a basic metric
+  + Engagement - same as YouTube
+  + Page likes and Follows - Similar to YouTube's Subscribers
+  + Video metrics - Views, average watch time and others to measure the success of posting videos on the platform. Can help us identify what type of videos do better on FB and if we need them at all.
+  + Event responses - Can allow us to estimate the number of guests we could have
+  + Insights - Allows us to better understand our audience
+  + Link clicks - Since we plan to share our blogs on facebook, its worth measuring to see if people are actually interested in that
+
+### Instagram ###
+  + Follower count - similar to Subscribers on Youtube
+  + Engagement - same as YouTube and Facebook
+  + Impressions - similar to Facebook's Reach
+  + Website Clicks - How many times do people click on the links we share on our website or posts from there
+
+### KPIs ###
+Here are some KPIs to look through when managing social platforms
+  + Engagement rate - how much people interact with our content compared to our follower count. if the number is low, then the follower numbers could be due to bots or just people who forgot to unfollow
+  + Click-Trough rate - How many people click the links we provide. This is important when looking at our website's traffic too
+  + Return on investment - how much revenue we gain from the social media activities compared to how much they cost us. Can help us identify which types of content are not worth for us to make.
+  + Customer sentiment - Understanding the general perception of our business in the general public through comments and reviews.
 
 ## Engagement ##
 It is very important to keep the audience engaged, so our social media team will need to be on guard to respond to comments and DMs. Of course, not every message needs an answer, but these channels need to be kept open and the audience needs to see that we actively engage, and react to their questions, jokes or suggestions. This needs to be done for all the platforms.
