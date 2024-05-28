@@ -46,7 +46,13 @@ When it comes to influencer partnerships, we would mainly focus on Latvian influ
   + Instagram Takeovers for a day
 
 Here are some influencers we would attempt approaching at some point:
-  + 
+  + Pipars.lv - As someone who cooks and shares his recipes, he could be a good guest chef to invite to share the popularity. Sure he is not a top-level chef, but he is recognizable to the public
+  + Airita Kodrāne (@airtata) - a smaller influencer that could get the information about us out on TikTok. While TikTok is not our platform of interest, it is worth remembering that any publicity is good publicity.
+  + @JushkaPadrushka - She could be an influencer to partner for contests and giveaways as well as reviews.
+  + Aija Nagle (@aijanagle) - Partnering with her could allow us to popularize us among the Russian-speaking audience. She has previously interviewed Michelin star restaurants aka our "idols" and competitors.
+  + @food_feels - a larger influencer that could bring some international recognition to our restaurant
+  + @eatdrinkrunrepeat - A European influencer with a goal to show food from all over Europe. Getting her to showcase our Latvian traditional dishes would be a win-win for both of us.
+
 ## Analytics ##
 
 ## Engagement ##
