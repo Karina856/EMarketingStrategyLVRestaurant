@@ -18,35 +18,35 @@ Strategy:
    * Tools: Google Keyword planner
 4. Google Trends
    *Analyze the popularity of defined keywords over time and identify trending topics
-   Tools: Google trends
+   *Tools: Google trends
 6. Page rank determination
    *Analyzing SEO metrics of website and competitors (Page Authority and Domain Authority)
-   Tools: MozBar
+   *Tools: MozBar
 7. Validate Keywords 
    *Validate the effectiveness, performance and relevance of chosen keywords (high search volume and low competition)
-   Tools: Google Analytics, Ahrefs, SEMrush
+   *Tools: Google Analytics, Ahrefs, SEMrush
 8. Usage of validated key words in page title, URL, headlines
    *Use primary keywords in page titles, URLs, and headlines  (less than 70 characters), add meta description
-   TOOLS: Coschedule
-9.  Installing Yoast-Plugin
+   *TOOLS: Coschedule
+10.  Installing Yoast-Plugin
     *Plugin that helps optimize on-page SEO to check keyword density for blog posts
-    TOOLS: Yoast SEO
-10. Check readability:
+     * TOOLS: Yoast SEO
+12. Check readability:
     *Content must be easy to read and understand
-    Tools: Yoast SEO, Hemingway Editor
-11. Check SEO
+    *Tools: Yoast SEO, Hemingway Editor
+14. Check SEO
     *SEO audit to identify issues and opportunities for improvement
-    TOOLS: Screaming Frog, Ahrefs Site Audit, webSEO
-12. Use H1, H2, H3 - 2k Words - Images & UL
+    *TOOLS: Screaming Frog, Ahrefs Site Audit, webSEO
+16. Use H1, H2, H3 - 2k Words - Images & UL
     *Use structured headings, content approximate 2000 words, images of dishes, and bullet points for menu highlights.
-    TOOLS: Grammarly
-13. Set up Google search console (create sitemaps, chech querries)
+    *TOOLS: Grammarly
+18. Set up Google search console (create sitemaps, chech querries)
     *For monitoring site performance, submit sitemaps, track keywords that bring traffic, create and submit a sitemap to Google Search Console and review and analyse search queries to understand how users find our website
-    TOOL: google search console, XML Sitemaps
-14. Use SSL/HTTPS
+    *TOOL: google search console, XML Sitemaps
+20. Use SSL/HTTPS
     *Implement HTTPS for secure data transfer and improved rankings
-    TOOLS: SSL Labs
-15. Inject traffic from social media site through social media content
+    *TOOLS: SSL Labs
+22. Inject traffic from social media site through social media content
     *Share blog posts, special offers, and events on platforms like Instagram and Facebook
-    TOOLS: Hootsuite
+    *TOOLS: Hootsuite
 
