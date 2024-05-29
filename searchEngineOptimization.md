@@ -22,19 +22,19 @@ Strategy:
 6. Page rank determination
    *Analyzing SEO metrics of website and competitors (Page Authority and Domain Authority)
    *Tools: MozBar
-7. Validate Keywords 
+8. Validate Keywords
    *Validate the effectiveness, performance and relevance of chosen keywords (high search volume and low competition)
    *Tools: Google Analytics, Ahrefs, SEMrush
-8. Usage of validated key words in page title, URL, headlines
-   *Use primary keywords in page titles, URLs, and headlines  (less than 70 characters), add meta description
+10. Usage of validated key words in page title, URL, headlines
+    *Use primary keywords in page titles, URLs, and headlines  (less than 70 characters), add meta description
    *TOOLS: Coschedule
-10.  Installing Yoast-Plugin
-    *Plugin that helps optimize on-page SEO to check keyword density for blog posts
+12.  Installing Yoast-Plugin
+     *Plugin that helps optimize on-page SEO to check keyword density for blog posts
      * TOOLS: Yoast SEO
-12. Check readability:
+14. Check readability:
     *Content must be easy to read and understand
     *Tools: Yoast SEO, Hemingway Editor
-14. Check SEO
+15. Check SEO
     *SEO audit to identify issues and opportunities for improvement
     *TOOLS: Screaming Frog, Ahrefs Site Audit, webSEO
 16. Use H1, H2, H3 - 2k Words - Images & UL
