@@ -1,7 +1,6 @@
 SEO
 -------------------------------------------------------------------------------------------------
 Search Engine Optimization is a practice for website optimization to improve its visibility and ranking on search engine results pages (SERPs). Aim is to increase organic (non-paid) traffic to the website by making it more attractive to search engines like Google, Bing, etc. SEO involves a combination of on-page techniques (like keyword optimization, content quality, meta tags, and internal linking) and off-page techniques (such as backlink building and social media engagement).
-
 Importance for Restaurant in Latvia:
 Local search optimization: The restaurant industry is highly competitive, especially in the high-end segment. SEO optimization helps that when potential customers search for fine dining options in Latvia our restaurant appears higher in search results. SEO optimization is a cost effective marketing strategy and provides long term benefits - maintain high rankings and continue attracting organic traffic over time.
 --------------------------------------------------------------------------------------------------
