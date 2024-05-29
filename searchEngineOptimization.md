@@ -7,7 +7,7 @@ Local search optimization: The restaurant industry is highly competitive, especi
 Strategy:
 1. Keyword reaserch:
    *Identify keywords and phrases that are used when searching for high-end dining options in Latvia;
-   * Use defined keywords strategically in website content, meta descriptions, blog posts (tags, etc)
+   * Use identified keywords in website content, meta descriptions, blog posts (tags, etc)
    * TOOLS: Ubbersuggest, SimilarWEB, SEMrush, Google Keyword Planner, etc
    * Defined keywords: restorāns riga, best food in riga, best latvian food, michelin restaurant in Latvia, best restaurant in Latvia
 2. Competitors research:
@@ -19,6 +19,24 @@ Strategy:
 4. Google Trends
    *Analyze the popularity of defined keywords over time and identify trending topics
    Tools: Google trends
-5. Validate Keywords
-   *Validate the effectiveness, performance and relevance of chosen keywords
+5. Page rank determination
+   *Analyzing SEO metrics of website and competitors (Page Authority and Domain Authority)
+   Tools: MozBar
+6. Validate Keywords 
+   *Validate the effectiveness, performance and relevance of chosen keywords (high search volume and low competition)
    Tools: Google Analytics, Ahrefs, SEMrush
+7. Usage of validated key words in page title, URL, headlines
+   *Use primary keywords in page titles, URLs, and headlines  (less than 70 characters), add meta description
+   TOOLS: Coschedule
+9.  Installing Yoast-Plugin
+    *Plugin that helps optimize on-page SEO to check keyword density for blog posts
+    TOOLS: Yoast SEO
+10. Check readability:
+    *Content must be easy to read and understand
+    Tools: Yoast SEO, Hemingway Editor
+11. Check SEO
+    SEO audit to identify issues and opportunities for improvement
+    TOOLS: Screaming Frog, Ahrefs Site Audit, webSEO
+12. Use H1, H2, H3 - 2k Words - Images & UL
+    Use structured headings, content approximate 2000 words, images of dishes, and bullet points for menu highlights.
+    
