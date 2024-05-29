@@ -17,36 +17,36 @@ Strategy:
    * Use keyword planner to find new keywords, see their mothly search volume, trends (change usage in last 3 months), competition and suggested keywords similar to used ones
    * Tools: Google Keyword planner
 4. Google Trends
-   *Analyze the popularity of defined keywords over time and identify trending topics
-   *Tools: Google trends
+   * Analyze the popularity of defined keywords over time and identify trending topics
+   * Tools: Google trends
 6. Page rank determination
-   *Analyzing SEO metrics of website and competitors (Page Authority and Domain Authority)
-   *Tools: MozBar
+   * Analyzing SEO metrics of website and competitors (Page Authority and Domain Authority)
+   * Tools: MozBar
 8. Validate Keywords
-   *Validate the effectiveness, performance and relevance of chosen keywords (high search volume and low competition)
-   *Tools: Google Analytics, Ahrefs, SEMrush
+   * Validate the effectiveness, performance and relevance of chosen keywords (high search volume and low competition)
+   * Tools: Google Analytics, Ahrefs, SEMrush
 10. Usage of validated key words in page title, URL, headlines
-    *Use primary keywords in page titles, URLs, and headlines  (less than 70 characters), add meta description
-   *TOOLS: Coschedule
+    * Use primary keywords in page titles, URLs, and headlines  (less than 70 characters), add meta description
+    * TOOLS: Coschedule
 12.  Installing Yoast-Plugin
-     *Plugin that helps optimize on-page SEO to check keyword density for blog posts
-     * TOOLS: Yoast SEO
+     *  plugin that helps optimize on-page SEO to check keyword density for blog posts
+     *  TOOLS: Yoast SEO
 14. Check readability:
-    *Content must be easy to read and understand
-    *Tools: Yoast SEO, Hemingway Editor
-15. Check SEO
-    *SEO audit to identify issues and opportunities for improvement
-    *TOOLS: Screaming Frog, Ahrefs Site Audit, webSEO
-16. Use H1, H2, H3 - 2k Words - Images & UL
-    *Use structured headings, content approximate 2000 words, images of dishes, and bullet points for menu highlights.
-    *TOOLS: Grammarly
-18. Set up Google search console (create sitemaps, chech querries)
-    *For monitoring site performance, submit sitemaps, track keywords that bring traffic, create and submit a sitemap to Google Search Console and review and analyse search queries to understand how users find our website
-    *TOOL: google search console, XML Sitemaps
-20. Use SSL/HTTPS
-    *Implement HTTPS for secure data transfer and improved rankings
-    *TOOLS: SSL Labs
-22. Inject traffic from social media site through social media content
-    *Share blog posts, special offers, and events on platforms like Instagram and Facebook
-    *TOOLS: Hootsuite
+    * Content must be easy to read and understand
+    * Tools: Yoast SEO, Hemingway Editor
+16. Check SEO
+    * SEO audit to identify issues and opportunities for improvement
+    * TOOLS: Screaming Frog, Ahrefs Site Audit, webSEO
+18. Use H1, H2, H3 - 2k Words - Images & UL
+    * Use structured headings, content approximate 2000 words, images of dishes, and bullet points for menu highlights.
+    * TOOLS: Grammarly
+20. Set up Google search console (create sitemaps, chech querries)
+    * For monitoring site performance, submit sitemaps, track keywords that bring traffic, create and submit a sitemap to Google Search Console and review and analyse search queries to understand how users find our website
+    * TOOL: google search console, XML Sitemaps
+22. Use SSL/HTTPS
+    * Implement HTTPS for secure data transfer and improved rankings
+    * TOOLS: SSL Labs
+24. Inject traffic from social media site through social media content
+    * Share blog posts, special offers, and events on platforms like Instagram and Facebook
+    * TOOLS: Hootsuite
 
