@@ -29,7 +29,7 @@ Strategy:
 7. Page rank determination
    * Analyzing SEO metrics of website and competitors (Page Authority and Domain Authority)
    * Tools: MozBar
-10. 
+
 12.  Installing Yoast-Plugin
      *  plugin that helps optimize on-page SEO to check keyword density for blog posts
      *  TOOLS: Yoast SEO
