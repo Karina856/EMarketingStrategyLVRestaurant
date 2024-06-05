@@ -29,12 +29,12 @@ Strategy:
 7. Use H1, H2, H3 - 2k Words - Images & UL
     * Use structured headings, content approximate 2000 words, images of dishes, and bullet points for menu highlights.
     * TOOLS: Grammarly
-8. Installing Yoast-Plugin
-     *  plugin that helps optimize on-page SEO to check keyword density for blog posts
-     *  TOOLS: Yoast SEO
-9. Check readability:
+8. Check readability:
     * Content must be easy to read and understand
     * Tools: Yoast SEO, Hemingway Editor
+9. Installing Yoast-Plugin
+     *  plugin that helps optimize on-page SEO to check keyword density for blog posts
+     *  TOOLS: Yoast SEO
 10. Check SEO
     * SEO audit to identify issues and opportunities for improvement
     * TOOLS: Screaming Frog, Ahrefs Site Audit, webSEO
