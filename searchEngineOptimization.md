@@ -12,7 +12,7 @@ Strategy:
    * TOOLS: Ubbersuggest, SimilarWEB, SEMrush, Google Keyword Planner, etc
    * Defined keywords: restorāns, restorāns riga, best food in riga, best latvian food, michelin restaurant in Latvia, best restaurant in Latvia
 2. Competitors research:
-   * Examine the keywords used by top competitors like 3 Pavaru Restorans, WhiteHouse, etc.
+   * Examine the keywords used by top competitors like MaxCekot, 3 Pavaru Restorans, WhiteHouse, etc.
    * TOOLS: SEMrush, SpyFu, Ahrefs, SimilarWEB
 3. Plan key-words
    * Use keyword planner to find new keywords, see their mothly search volume, trends (change usage in last 3 months), competition and suggested keywords similar to used ones
