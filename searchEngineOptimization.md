@@ -20,12 +20,12 @@ Strategy:
 4. Google Trends
    * Analyze the popularity of defined keywords over time and identify trending topics
    * Tools: Google trends
+5. Validate Keywords
+   * Validate the effectiveness, performance and relevance of chosen keywords (high search volume and low competition)
+   * Tools: Google Analytics, Ahrefs, SEMrush
 6. Page rank determination
    * Analyzing SEO metrics of website and competitors (Page Authority and Domain Authority)
    * Tools: MozBar
-8. Validate Keywords
-   * Validate the effectiveness, performance and relevance of chosen keywords (high search volume and low competition)
-   * Tools: Google Analytics, Ahrefs, SEMrush
 10. Usage of validated key words in page title, URL, headlines
     * Use primary keywords in page titles, URLs, and headlines  (less than 70 characters), add meta description
     * TOOLS: Coschedule
