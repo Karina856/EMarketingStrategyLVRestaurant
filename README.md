@@ -7,8 +7,8 @@ This is an e-marketing strategy for a Latvian Restaurant that focuses on high-en
 + websiteDevelopment.md - strategy for developing the website
 + searchEngineOptimization.md - strategy for search engine optimization
 + paidAdvertisements.md - strategy for using paid advertisements
-+ socialMediaMarketing.md - strategy for social media marketing
 + contentMarketing.md - strategy for content marketing
++ socialMediaMarketing.md - strategy for social media marketing
 
 ## Group Members ##
 
