@@ -10,7 +10,7 @@ Strategy:
    *Identify keywords and phrases that are used when searching for high-end dining options in Latvia;
    * Use identified keywords in website content, meta descriptions, blog posts (tags, etc)
    * TOOLS: Ubbersuggest, SimilarWEB, SEMrush, Google Keyword Planner, etc
-   * Defined keywords: restorāns riga, best food in riga, best latvian food, michelin restaurant in Latvia, best restaurant in Latvia
+   * Defined keywords: restorāns, restorāns riga, best food in riga, best latvian food, michelin restaurant in Latvia, best restaurant in Latvia
 2. Competitors research:
    * Examine the keywords used by top competitors like 3 Pavaru Restorans, WhiteHouse, etc.
    * TOOLS: SEMrush, SpyFu, Ahrefs, SimilarWEB
