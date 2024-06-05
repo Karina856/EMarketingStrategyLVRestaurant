@@ -2,12 +2,12 @@
 
 ### 1. Website Builder ###
 
-For the Website builder it is the best to choose **Wordpress** in which PHP, HTML, CSS, JavaScript will be used and also MySQL for database. Highly flexible and customizable. It has a steeper learning curve but offers extensive plugins and themes tailored for restaurants. You can integrate online booking systems, menus, and other features.
+For the Website builder it is best to choose **Wordpress** in which PHP, HTML, CSS, and JavaScript will be used and also MySQL for the database. Highly flexible and customizable. It has a steeper learning curve but offers extensive plugins and themes tailored for restaurants. You can integrate online booking systems, menus, and other features.
 
 ### 2. Essential Features for a Restaurant Website ###
 
 **Design and User Experience:**
-+ Visually Appealing Design: Use high-quality images of your dishes and restaurant ambiance. A clean, modern design with easy navigation is crucial.
++ Visually Appealing Design: Use high-quality images of your dishes and restaurant ambience. A clean, modern design with easy navigation is crucial.
 + Mobile Responsiveness: Ensure the website looks good and functions well on mobile devices, as many users will access it this way.
 + Fast Loading Speed: Optimize images and use reliable hosting to ensure your website loads quickly.
 
@@ -20,9 +20,9 @@ For the Website builder it is the best to choose **Wordpress** in which PHP, HTM
 + Social Media Integration: Link to your social media profiles and consider embedding your Instagram feed or Facebook reviews.
 + Events and Special Offers: Highlight any special events, offers, or promotions
 
-### 3. Theme for the website ###
+### 3. The theme for the website ###
 
-There are many of themese available but these would be perfect for the restaurant website:
+There are many themes available out there but these would be perfect for the restaurant website:
 
 **1. Rosa 2** -  Elegant design with parallax scrolling, full-screen images, and a focus on showcasing food. It also supports online reservations and menus. Ideal for creating a visually stunning restaurant site that emphasizes the dining experience.
 ![image](https://github.com/Karina856/EMarketingStrategyLVRestaurant/assets/82584494/6ff15693-5768-43ae-aef1-d4b078d9332c)
@@ -37,12 +37,12 @@ There are many of themese available but these would be perfect for the restauran
 
 ### 4. Analytics ###
 
-You should use a combination of differnet analytic tools for understanding visitor behavior, measuring the effectiveness of your marketing efforts, and making data-driven decisions to improve your online presence. 
+You should use a combination of different analytic tools for understanding visitor behaviour, measuring the effectiveness of your marketing efforts, and making data-driven decisions to improve your online presence. 
 
 **1. Google Analytics**
 + Features: Tracks visitor data such as page views, session duration, bounce rate, and user demographics. Provides insights into how visitors find and interact with your website.
 + Why Use It: It's comprehensive, widely used, and free. You can set up goals to track specific actions like online reservations or order completions.
-+ What to measure: Dayly page visits, average session duration, average bounce rate, user demographics, traffic sources (organic searched / direct / social / paid search)
++ What to measure: Daily page visits, average session duration, average bounce rate, user demographics, traffic sources (organic searched / direct / social / paid search)
 
 **2. Yoast SEO**
 + Features: Provides SEO analysis and improvements, readability checks, and XML sitemap generation. Integrates with Google Analytics for deeper insights.
@@ -52,9 +52,9 @@ You should use a combination of differnet analytic tools for understanding visit
 **3. Crazy Egg**
 + Features: Offers heatmaps, scroll maps, and user session recordings. Includes A/B testing tools for optimizing your website.
 + Why Use It: It provides in-depth insights into how users interact with your site, helping you make data-driven design decisions.
-+ What to measure: heatmaps (visualize where users are clicking more and how far down they are scrolling), click segmentation (break down clicks by referral source, search term, and more to understand different user behaviors), element Interaction (view clicks on individual elements like buttons, images, and links), A/B testing (run A/B tests to see which versions of your pages perform better)
++ What to measure: heatmaps (visualize where users are clicking more and how far down they are scrolling), click segmentation (break down clicks by referral source, search term, and more to understand different user behaviours), element Interaction (view clicks on individual elements like buttons, images, and links), A/B testing (run A/B tests to see which versions of your pages perform better)
 
-By using Google Analytics, Yoast SEO, and Crazy Egg together, you can gain a comprehensive understanding of your website’s performance, optimize your content for search engines, and improve user experience through visual behavior analysis. This combination of tools helps ensure your restaurant website attracts, engages, and converts visitors effectively.
+By using Google Analytics, Yoast SEO, and Crazy Egg together, you can gain a comprehensive understanding of your website’s performance, optimize your content for search engines, and improve user experience through visual behaviour analysis. This combination of tools helps ensure your restaurant website attracts, engages, and converts visitors effectively.
 
 ### 5. Secure and Trustworthy ###
 Ensuring the security and trustworthiness of your restaurant website is crucial for protecting user data, maintaining your reputation, and providing a safe and reliable online experience for your customers. Here are some key actions to take and the reasons why they are important:
@@ -68,7 +68,7 @@ Ensuring the security and trustworthiness of your restaurant website is crucial 
 + Why: Regular updates include security patches that fix vulnerabilities. Running outdated software can leave your site exposed to security breaches and attacks.
 
 **3. Strong Password Policies**
-+ Action: Implement strong password policies for all user (administrator, content manager, etc.).
++ Action: Implement strong password policies for all users (administrator, content manager, etc.).
 + Why: Strong passwords reduce the risk of unauthorized access to your website. Use a mix of uppercase, lowercase, numbers, and special characters, and encourage the use of password managers.
 
 **4. Privacy Policy and Terms of Service**
